@@ -1,0 +1,15 @@
+app:
+  api_auth_token: "2/1209713114125752/1209712803100170:28a8f7fe322ca66629c3a4f9118be137"
+  api_url: "https://app.asana.com/api/1.0"
+
+  workspace_gid: "1209713114125764"
+  
+  user:
+    path: "users"
+    limit: 1 # 0 < limit <= 100
+
+  project:
+    path: "projects"
+    limit: 1 # 0 < limit <= 100
+  
+
